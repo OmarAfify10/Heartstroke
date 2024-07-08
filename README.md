@@ -7,4 +7,6 @@ Execution
 To run this Jupyter Notebook , use the binder link above .Open the notebook Heartstroke.ipynb. Then run each line from the top to the bottom.
 
 Results:
-Heat stroke prediction leverages advanced data analytics and machine learning to identify early signs of heat-related illnesses. By monitoring individual physiological data, predictive models can provide timely warnings to prevent heat strokes. This proactive approach enhances safety and well-being.
+After running the desicion Tree Model and random forest Model ,we see an overall accuracy 0.86 for Desicion Tree and 0.85 for Random forest . Desicion Tree has also better results in the confusion matrix .
+
+
